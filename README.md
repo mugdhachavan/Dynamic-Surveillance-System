@@ -19,6 +19,7 @@ The **Dynamic Surveillance System** is a computer vision–based application des
 ## 🚀 Key Features
 - Real-time video stream processing
 - Motion detection and tracking
+- Sends SMS to the owner when person is detected
 - Automated surveillance monitoring
 - Modular and extensible design
 - Efficient performance for continuous operation
